@@ -3,8 +3,9 @@
 # notes:
 # - This is not officially supported by the api, nor is it described in the documentation
 # - I hacked this together by analysing requests made in their web app on the core console.
-# - I wrote this script to change our channel names of installations from user.username to user.id to facilitate changing usernames, 
-#   and so that is the example I've included here. However you should be able to update any part of an installation by customising this script
+# - I wrote this script to change our channel names of installations from user.username to user.id
+#   and so that is the example I've included here. However you should be able to update any part of 
+#   an installation by customising this script
 
 
 # GET THESE BY ANALYSING A REQUEST MADE IN THE WEB APP CORE CONSOLE ON PARSE.COM
